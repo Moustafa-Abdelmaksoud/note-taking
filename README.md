@@ -5,7 +5,7 @@ The Note Taking Application is a web-based system that allows users to create, m
 
 1. **User Authentication**:
     - Users can sign up and log in securely.
-    - Authentication is handled using **JSON Web Tokens (JWT)**.
+    - Authentication is handled
     - Invalid credentials are handled gracefully.
 2. **Note Creation and Retrieval**:
     - Users can create new notes.
@@ -15,4 +15,5 @@ The Note Taking Application is a web-based system that allows users to create, m
 3. **Version History**:
     - The application maintains a version history for each note.
     - Users can view previous versions of their notes.
+      
 Application Video Link: https://drive.google.com/file/d/1Oqkn-uxRQDgDvi3Z8ROffoRMdQTjcUkw/view?t=8
