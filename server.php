@@ -5,7 +5,7 @@ $username = "";
 $email = "";
 $errors = array();
 // connect to data base
-$db = mysqli_connect('localhost', 'root', 'J43_/brrI*8gJHPb', 'noteTaking');
+$db = mysqli_connect('localhost', 'root', '123456', 'noteTaking');
 // if the register button is clicked
 
 if (isset($_POST['register'])) {
